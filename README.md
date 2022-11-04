@@ -1,1 +1,1 @@
-# Simple Online Docs
+# Simple Online Printing - Documentation
