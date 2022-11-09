@@ -70,6 +70,7 @@ module.exports = {
                     collapsable: false,
                     children: [
                         'config/',
+                        'config/options',
                         'config/design',
                         'config/finish',
                         'config/tooltips',
