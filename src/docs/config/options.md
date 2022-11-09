@@ -8,11 +8,13 @@ La tabla contiene las siguientes opciones:
 
 ## Tipo de papel
 
-Puedes poner cualquier texto. Por ejemplo, puedes juntar el tamaño con la calidad o grosor.
+Puedes poner cualquier texto que explique de la forma más sintética posible las características del tipo de papel. *Por ejemplo: A4 80gr.*
+
+Recomendamos juntar el tamaño con la calidad o grosor en un mismo tipo de papel para controlar mejor su combinación.
 
 ## Precio B/N
 
-El precio de la impresión de blanco y negro.
+El precio de la impresión a blanco y negro.
 
 ## Precio Color
 
