@@ -1,39 +1,9 @@
-# Basic plugin structure
+# Primeros pasos
 
-```bash
-#Your Plugin
-├── Admin
-│   ├── Admin-menus.php
-│   ├── Ajax-actions.php
-│   ├── Crons.php
-│   ├── Emails.php
-│   └── PostActions.php
-├── Includes
-│   ├── Activator.php
-│   ├── BladeLoader.php
-│   ├── Deactivator.php
-│   ├── Languages.php
-│   ├── Loader.php
-│   └── Utils.php
-├── languages
-├── plubo
-├── plugin-placeholder.php
-├── General
-│   ├── ApiEndpoints.php
-│   ├── CustomFields.php
-│   ├── CustomPostTypes.php
-│   ├── Routes.php
-│   ├── Shortcodes.php
-│   └── Taxonomies.php
-├── React
-│   ├── apps
-│   ├── apps.php
-│   ├── ReactLoader.php
-├── resources
-│   ├── directives
-│   ├── fonts
-│   ├── images
-│   ├── scripts
-│   ├── styles
-│   └── views
-└── uninstall.php
+Al instalar y activar el plugin, este se va a encargar de dejar todo listo para tener ya de entrada una configuración inicial básica desde la que empezar.
+
+En concreto, el plugin va a generar automáticamente:
+
+- Un **listado de opciones** de precios inicial
+- Una **URL** donde va a estar la aplicación de copistería online
+- Un **producto de WooCommerce** que va a servir para identificar las ventas de impresión personalizada

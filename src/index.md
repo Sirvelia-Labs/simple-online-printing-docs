@@ -1,16 +1,16 @@
 ---
 home: true
-heroImage: /images/plubo.png
-heroText: Simple, fast and ready to use
-tagline:  A WordPress Plugin Boilerplate packed with modern tools to start developing fast.
-actionText: Quick Start →
+heroImage: /images/plugin-copisteria-online-screen.png
+heroText: Simple Online Printing
+tagline:  El plugin de Copistería Online para WooCommerce.
+actionText: Empieza aquí →
 actionLink: /docs/quick-start
 features:
-- title: Modern JavaScript & SCSS
-  details: ES6 routing and SCSS ready. We use Bud to compile your assets.
-- title: Easy routes creation
-  details: Add routes and redirects without worrying about rewrite rules.
-- title: Start developing fast
-  details: Simple, organized structure with Blade templates and Carbon fields.
+- title: Compatible con WooCommerce
+  details: Sigue usando tus métodos de pago, impuestos y envíos de WooCommerce, como si fuera otro producto.
+- title: Precios configurables en un click
+  details: Crea y gestiona tipos de papel, precios de impresión, acabados y otros detalles desde un panel de configuración.
+- title: Diseño de interfaz moderno
+  details: Cambia el logotipo y los colores para tener una experiencia de usuario que encaje con tu imagen de marca.
 footer: Made in Barcelona
 ---

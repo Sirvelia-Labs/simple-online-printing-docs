@@ -1,14 +1,5 @@
-# Introduction
+# Introducción
 
-<Box content="content" />
+Simple Online Printing es un plugin para WooCommerce, que pretende ayudar a copisterías e imprentas a disponer de una funcionalidad muy interactiva para vender impresión y copias online.
 
-::: slot content
-Plubo is a really simple WordPress plugin boilerplate created to speed up plugin development.
-
-![Plubo](/images/plubo-banner.png)
-
-✔️  Use Blade views and directives from the start\
-✔️  Add styles in SCSS\
-✔️  Add scripts on specific WordPress templates and shortcode tags based on html classes\
-✔️  Easily create advanced WordPress routes
-:::
+Está desarrollado por la empresa <a href="https://sirvelia.com" target="_blank">Sirvelia</a>, con sede en Barcelona, España. Es una empresa de ingenieros especializados en desarrollo de plugins WordPress y WooCommerce.
