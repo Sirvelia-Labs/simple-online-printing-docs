@@ -4,7 +4,7 @@ heroImage: /images/plugin-copisteria-online-screen.png
 heroText: Simple Online Printing
 tagline:  El plugin de Copistería Online para WooCommerce.
 actionText: Empieza aquí →
-actionLink: /docs/quick-start
+actionLink: /docs/installation
 features:
 - title: Compatible con WooCommerce
   details: Sigue usando tus métodos de pago, impuestos y envíos de WooCommerce, como si fuera otro producto.
